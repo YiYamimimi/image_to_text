@@ -1,5 +1,7 @@
 Python Django+HTML+css+JavaScript 图片转文字
+
 安装Django：在命令行中运行 pip install django
+
 使用Tesseract OCR库进行图片转文字 pip install pytesseract
 
 ### 后端
